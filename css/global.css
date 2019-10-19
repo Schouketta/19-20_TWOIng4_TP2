@@ -178,6 +178,13 @@ h2 {
     color: #4b5c66;
 }
 
+#idh2
+{
+    font-size:2.0rem;
+    font-weight: normal;
+    color: #4b5c66;
+}
+
 header form {
     width: 100%;
 }
